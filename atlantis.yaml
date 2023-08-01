@@ -1,5 +1,7 @@
 version: 3
 projects:
-- dir: project1
-  autoplan:
-    enabled: false
+  - name: main
+    dir: project1
+    workspace: main
+    autoplan:
+      enabled: false
