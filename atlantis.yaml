@@ -1,8 +1,0 @@
-version: 3
-projects:
-  - name: main
-    dir: project1
-    workspace: main
-    terraform_version: 1.5.4
-    autoplan:
-      enabled: false
